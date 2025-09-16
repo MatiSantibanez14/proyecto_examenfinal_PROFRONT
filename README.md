@@ -6,6 +6,10 @@ Incluye también un formulario de registro con validación.
 
 ---
 
+- 🌐 **Sitio desplegado en Netlify:** proyecto-final-frontend.netlify.app/
+
+---
+
 ## 🚀 Funcionalidades
 
 ✅ **Cálculo de calificaciones**  
